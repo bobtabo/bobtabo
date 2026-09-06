@@ -16,7 +16,7 @@
 
 ### 🛠 Tech Stack
 
-p>
+<p>
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
