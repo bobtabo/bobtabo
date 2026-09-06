@@ -1,0 +1,4 @@
+# README.md 以外はすべて追跡しない
+/*
+!.gitignore
+!README.md
