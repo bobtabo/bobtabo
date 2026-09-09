@@ -48,8 +48,6 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" title="Ruby" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="48" height="48" alt="Ruby on Rails" title="Ruby on Rails" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go" title="Go" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
@@ -71,17 +69,19 @@
   &nbsp;
   <img src="https://avatars.githubusercontent.com/u/1483254?s=96" width="48" height="48" alt="MyBatis" title="MyBatis" />
   &nbsp;
+  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=DBFlute" width="48" height="48" alt="DBFlute" title="DBFlute" /><!-- TODO: 正式ロゴURLに差し替え -->
+  &nbsp;
+  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=JSF" width="48" height="48" alt="JSF" title="JSF" /><!-- TODO: 正式ロゴURLに差し替え -->
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET Framework" title=".NET Framework" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET" title="ASP.NET" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" width="48" height="48" alt="CakePHP" title="CakePHP" />
   &nbsp;
-  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=DBFlute" width="48" height="48" alt="DBFlute" title="DBFlute" /><!-- TODO: 正式ロゴURLに差し替え -->
-  &nbsp;
   <img src="https://avatars.githubusercontent.com/u/452101?s=200&v=4" width="48" height="48" alt="FuelPHP" title="FuelPHP" />
   &nbsp;
-  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=JSF" width="48" height="48" alt="JSF" title="JSF" /><!-- TODO: 正式ロゴURLに差し替え -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="48" height="48" alt="Ruby on Rails" title="Ruby on Rails" />
 </p>
 
 <!-- フロント -->
