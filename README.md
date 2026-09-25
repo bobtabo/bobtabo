@@ -34,13 +34,13 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" title="PHP" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="48" height="48" alt="Visual Basic" title="Visual Basic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="48" height="48" alt="Delphi" title="Delphi" />
   &nbsp;
   <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=PL%2FSQL" width="48" height="48" alt="PL/SQL" title="PL/SQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="48" height="48" alt="Visual Basic" title="Visual Basic" />
   &nbsp;
   <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=VBA" width="48" height="48" alt="VBA" title="VBA" /><!-- TODO: 正式ロゴURLに差し替え -->
   &nbsp;
@@ -57,8 +57,6 @@
 **FW**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" title="Laravel" />
-  &nbsp;
   <img src="https://www.vectorlogo.zone/logos/apache_struts/apache_struts-icon.svg" width="48" height="48" alt="Struts" title="Struts / Struts2" />
   &nbsp;
   <img src="https://avatars.githubusercontent.com/u/5226702?s=96" width="48" height="48" alt="Seasar2" title="Seasar2" />
@@ -73,13 +71,17 @@
   &nbsp;
   <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=JSF" width="48" height="48" alt="JSF" title="JSF" /><!-- TODO: 正式ロゴURLに差し替え -->
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET Framework" title=".NET Framework" />
+  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=JSP" width="48" height="48" alt="JSP" title="JSP" /><!-- TODO: 正式ロゴURLに差し替え -->
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET" title="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="48" height="48" alt="Laravel" title="Laravel" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" width="48" height="48" alt="CakePHP" title="CakePHP" />
   &nbsp;
   <img src="https://avatars.githubusercontent.com/u/452101?s=200&v=4" width="48" height="48" alt="FuelPHP" title="FuelPHP" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET Framework" title=".NET Framework" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="ASP.NET" title="ASP.NET" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="48" height="48" alt="Ruby on Rails" title="Ruby on Rails" />
 </p>
@@ -88,13 +90,13 @@
 **フロント**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery" title="jQuery" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" title="HTML" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" title="CSS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery" title="jQuery" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
   &nbsp;
@@ -103,6 +105,50 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" title="Next.js" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" title="Vue.js" />
+</p>
+
+<!-- OS / Webサーバー / APサーバー -->
+**OS / Webサーバー / APサーバー**
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows Server" title="Windows Server" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="macOS" title="macOS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" title="Apache" />
+  &nbsp;
+  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=IIS" width="48" height="48" alt="IIS" title="IIS" /><!-- TODO: 正式ロゴURLに差し替え -->
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Tomcat" title="Tomcat" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" width="82" height="48" alt="JBoss" title="JBoss" />
+  &nbsp;
+  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=WebLogic" width="48" height="48" alt="WebLogic" title="WebLogic" /><!-- TODO: 正式ロゴURLに差し替え -->
+  &nbsp;
+  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=Interstage" width="48" height="48" alt="Interstage" title="Interstage" /><!-- TODO: 正式ロゴURLに差し替え -->
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Adobe_JRun_v4.0_computer_icon.png" width="48" height="48" alt="JRun" title="JRun" />
+</p>
+
+<!-- 仮想化 / コンテナ / クラウド / IaC -->
+**仮想化 / コンテナ / クラウド / IaC**
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/virtualbox" width="48" height="48" alt="VirtualBox" title="VirtualBox" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="48" height="48" alt="Vagrant" title="Vagrant" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" title="AWS" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" title="Ansible" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" title="Terraform" />
 </p>
 
 <!-- DB / KVS / 監視 -->
@@ -115,74 +161,23 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="48" height="48" alt="MariaDB" title="MariaDB" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title="Redis" />
-  &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" width="48" height="48" alt="Memcached" title="Memcached" />
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL Server" title="SQL Server" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/h2database" width="48" height="48" alt="H2DB" title="H2DB" />
   &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg" width="51" height="48" alt="Microsoft Access" title="Microsoft Access" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" title="Redis" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" width="48" height="48" alt="Memcached" title="Memcached" />
+  &nbsp;
   <img src="https://cdn.simpleicons.org/datadog" width="48" height="48" alt="Datadog" title="Datadog" />
   &nbsp;
   <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="48" height="48" alt="CloudWatch" title="CloudWatch" />
-</p>
-
-<!-- プロジェクト管理 -->
-**プロジェクト管理**
-
-<p align="left">
-  <img src="https://nulab.com/app/assets/img/common/backlog-favicon.svg" width="48" height="48" alt="Backlog" title="Backlog" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/redmine" width="48" height="48" alt="Redmine" title="Redmine" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="JIRA" title="JIRA" />
-  &nbsp;
-  <img src="https://logotyp.us/file/wrike.svg" width="67" height="48" alt="Wrike" title="Wrike" />
-</p>
-
-<!-- ドキュメント -->
-**ドキュメント**
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" width="48" height="48" alt="Microsoft 365" title="Microsoft 365" />
-  &nbsp;
-  <img src="https://developers.google.com/static/identity/images/g-logo.png" width="48" height="48" alt="Google Workspace" title="Google Workspace" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" title="Notion" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="48" height="48" alt="Confluence" title="Confluence" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/miro" width="48" height="48" alt="miro" title="miro" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" title="Figma" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/diagramsdotnet" width="48" height="48" alt="draw.io" title="draw.io" />
-</p>
-
-<!-- インフラ -->
-**インフラ**
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" title="Docker" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="48" height="48" alt="Vagrant" title="Vagrant" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/virtualbox" width="48" height="48" alt="VirtualBox" title="VirtualBox" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows Server" title="Windows Server" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" title="Ansible" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" title="Linux" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" title="AWS" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" title="Terraform" />
 </p>
 
 <!-- CI / CD -->
@@ -208,11 +203,51 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab" title="GitLab" />
   &nbsp;
-  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=CVS" width="48" height="48" alt="CVS" title="CVS" /><!-- TODO: 正式ロゴURLに差し替え -->
-  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" width="48" height="48" alt="SVN" title="SVN" />
   &nbsp;
+  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=CVS" width="48" height="48" alt="CVS" title="CVS" /><!-- TODO: 正式ロゴURLに差し替え -->
+  &nbsp;
   <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=VSS" width="48" height="48" alt="VSS" title="VSS (Visual SourceSafe)" /><!-- TODO: 正式ロゴURLに差し替え -->
+</p>
+
+<!-- プロジェクト管理 -->
+**プロジェクト管理**
+
+<p align="left">
+  <img src="https://nulab.com/app/assets/img/common/backlog-favicon.svg" width="48" height="48" alt="Backlog" title="Backlog" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="JIRA" title="JIRA" />
+  &nbsp;
+  <img src="https://logotyp.us/file/wrike.svg" width="67" height="48" alt="Wrike" title="Wrike" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/smartsheet/smartsheet-icon.svg" width="48" height="48" alt="Smartsheet" title="Smartsheet" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/redmine" width="48" height="48" alt="Redmine" title="Redmine" />
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/edgewall_trac/edgewall_trac-icon.svg" width="48" height="48" alt="Trac" title="Trac" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Microsoft_Office_Project_%282013-2019%29.svg" width="51" height="48" alt="Microsoft Project" title="Microsoft Project" />
+</p>
+
+<!-- ドキュメント -->
+**ドキュメント**
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" width="48" height="48" alt="Microsoft 365" title="Microsoft 365" />
+  &nbsp;
+  <img src="https://developers.google.com/static/identity/images/g-logo.png" width="48" height="48" alt="Google Workspace" title="Google Workspace" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion" title="Notion" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="48" height="48" alt="Confluence" title="Confluence" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/miro" width="48" height="48" alt="miro" title="miro" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" title="Figma" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/diagramsdotnet" width="48" height="48" alt="draw.io" title="draw.io" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg" width="41" height="48" alt="Microsoft Office" title="Microsoft Office" />
 </p>
 
 <!-- コミュニケーション -->
@@ -248,16 +283,8 @@
   placehold.co のままの項目（LAPRAS / YOUTRUST）は公式ロゴSVGを入手できたら <img> の src を差し替え。
 -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/satoshi-nagashiba" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  &nbsp;
   <a href="https://lapras.com/public/B4BY1FQ" target="_blank">
     <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=LAPRAS" width="48" height="48" alt="LAPRAS" title="LAPRAS" /><!-- TODO: 正式ロゴURLに差し替え -->
-  </a>
-  &nbsp;
-  <a href="https://qiita.com/_bobtabo_" target="_blank">
-    <img src="https://cdn.simpleicons.org/qiita" width="48" height="48" alt="Qiita" title="Qiita" />
   </a>
   &nbsp;
   <a href="https://note.com/_bobtabo_" target="_blank">
@@ -274,7 +301,15 @@
     <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=YOUTRUST" width="48" height="48" alt="YOUTRUST" title="YOUTRUST" /><!-- TODO: 正式ロゴURLに差し替え -->
   </a>
   &nbsp;
+  <a href="https://qiita.com/_bobtabo_" target="_blank">
+    <img src="https://cdn.simpleicons.org/qiita" width="48" height="48" alt="Qiita" title="Qiita" />
+  </a>
+  &nbsp;
   <a href="https://www.wantedly.com/id/satoshi_nagashiba" target="_blank">
     <img src="https://cdn.simpleicons.org/wantedly" width="48" height="48" alt="Wantedly" title="Wantedly" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/satoshi-nagashiba" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
   </a>
 </p>
