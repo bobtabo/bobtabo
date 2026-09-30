@@ -277,9 +277,6 @@
 
 ### 📬 Links & Connect
 
-<!--
-  href は各プロフィールのURLに差し替えてください。
--->
 <p align="left">
   <a href="https://lapras.com/public/B4BY1FQ" target="_blank"><img src="image/lapras.png" width="39" height="48" alt="LAPRAS" title="LAPRAS" /></a>
   &nbsp;
