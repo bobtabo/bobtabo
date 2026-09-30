@@ -281,33 +281,19 @@
   href は各プロフィールのURLに差し替えてください。
 -->
 <p align="left">
-  <a href="https://lapras.com/public/B4BY1FQ" target="_blank">
-    <img src="image/lapras.png" width="39" height="48" alt="LAPRAS" title="LAPRAS" />
-  </a>
+  <a href="https://lapras.com/public/B4BY1FQ" target="_blank"><img src="image/lapras.png" width="39" height="48" alt="LAPRAS" title="LAPRAS" /></a>
   &nbsp;
-  <a href="https://note.com/_bobtabo_" target="_blank">
-    <img src="https://cdn.simpleicons.org/note" width="40" height="40" alt="note" title="note" />
-  </a>
+  <a href="https://note.com/_bobtabo_" target="_blank"><img src="https://cdn.simpleicons.org/note" width="40" height="40" alt="note" title="note" /></a>
   &nbsp;
   <!-- X: 発信していないため一旦非表示。再開時にコメント解除
-  <a href="https://x.com/bobtabo24" target="_blank">
-    <img src="https://cdn.simpleicons.org/x" width="48" height="48" alt="X" title="X" />
-  </a>
+  <a href="https://x.com/bobtabo24" target="_blank"><img src="https://cdn.simpleicons.org/x" width="48" height="48" alt="X" title="X" /></a>
   &nbsp;
   -->
-  <a href="https://youtrust.jp/users/satoshi-nagashiba" target="_blank">
-    <img src="image/youtrust.jpg" width="48" height="48" alt="YOUTRUST" title="YOUTRUST" />
-  </a>
+  <a href="https://youtrust.jp/users/satoshi-nagashiba" target="_blank"><img src="image/youtrust.jpg" width="48" height="48" alt="YOUTRUST" title="YOUTRUST" /></a>
   &nbsp;
-  <a href="https://qiita.com/_bobtabo_" target="_blank">
-    <img src="https://cdn.simpleicons.org/qiita" width="48" height="48" alt="Qiita" title="Qiita" />
-  </a>
+  <a href="https://qiita.com/_bobtabo_" target="_blank"><img src="https://cdn.simpleicons.org/qiita" width="48" height="48" alt="Qiita" title="Qiita" /></a>
   &nbsp;
-  <a href="https://www.wantedly.com/id/satoshi_nagashiba" target="_blank">
-    <img src="https://cdn.simpleicons.org/wantedly" width="48" height="48" alt="Wantedly" title="Wantedly" />
-  </a>
+  <a href="https://www.wantedly.com/id/satoshi_nagashiba" target="_blank"><img src="https://cdn.simpleicons.org/wantedly" width="48" height="48" alt="Wantedly" title="Wantedly" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/satoshi-nagashiba" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/satoshi-nagashiba" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
