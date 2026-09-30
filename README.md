@@ -23,6 +23,7 @@
     - Simple Icons:   https://cdn.simpleicons.org/<slug>  （色指定は /<slug>/<hex>。既定はブランドカラー）
     - VectorLogoZone: https://www.vectorlogo.zone/logos/<slug>/<slug>-icon.svg
     - その他:         ベンダー公式配布 (例: Backlog=nulab.com) / logotyp.us / Wikimedia Commons
+    - ローカル:       image/<name>.<ext> （URLで取得できないロゴはベンダー配布ファイルをリネームして配置）
   placehold.co（スレート色のテキストタイル）の項目は公式ロゴが未配布 or 存在しないもの。SVGを入手できたら該当 <img> の src を差し替え。
 -->
 
@@ -38,7 +39,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" width="48" height="48" alt="Delphi" title="Delphi" />
   &nbsp;
-  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=PL%2FSQL" width="48" height="48" alt="PL/SQL" title="PL/SQL" />
+  <img src="image/plsql.svg" width="48" height="48" alt="PL/SQL" title="PL/SQL" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" width="48" height="48" alt="Visual Basic" title="Visual Basic" />
   &nbsp;
@@ -117,19 +118,17 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="macOS" title="macOS" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" width="42" height="48" alt="Nginx" title="Nginx" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" title="Apache" />
   &nbsp;
-  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=IIS" width="48" height="48" alt="IIS" title="IIS" /><!-- TODO: 正式ロゴURLに差し替え -->
+  <img src="image/iis.png" width="43" height="48" alt="IIS" title="IIS" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48" alt="Tomcat" title="Tomcat" />
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JBoss_logo.svg" width="82" height="48" alt="JBoss" title="JBoss" />
   &nbsp;
   <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=WebLogic" width="48" height="48" alt="WebLogic" title="WebLogic" /><!-- TODO: 正式ロゴURLに差し替え -->
-  &nbsp;
-  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=Interstage" width="48" height="48" alt="Interstage" title="Interstage" /><!-- TODO: 正式ロゴURLに差し替え -->
   &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Adobe_JRun_v4.0_computer_icon.png" width="48" height="48" alt="JRun" title="JRun" />
 </p>
@@ -271,7 +270,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="48" height="48" alt="Notion AI" title="Notion AI" />
   &nbsp;
-  <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=tl;dv" width="48" height="48" alt="tl;dv" title="tl;dv" /><!-- TODO: 正式ロゴURLに差し替え -->
+  <img src="image/tldv.jpg" width="48" height="48" alt="tl;dv" title="tl;dv" />
 </p>
 
 ---
@@ -280,15 +279,14 @@
 
 <!--
   href は各プロフィールのURLに差し替えてください。
-  placehold.co のままの項目（LAPRAS / YOUTRUST）は公式ロゴSVGを入手できたら <img> の src を差し替え。
 -->
 <p align="left">
   <a href="https://lapras.com/public/B4BY1FQ" target="_blank">
-    <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=LAPRAS" width="48" height="48" alt="LAPRAS" title="LAPRAS" /><!-- TODO: 正式ロゴURLに差し替え -->
+    <img src="image/lapras.png" width="39" height="48" alt="LAPRAS" title="LAPRAS" />
   </a>
   &nbsp;
   <a href="https://note.com/_bobtabo_" target="_blank">
-    <img src="https://cdn.simpleicons.org/note" width="48" height="48" alt="note" title="note" />
+    <img src="https://cdn.simpleicons.org/note" width="40" height="40" alt="note" title="note" />
   </a>
   &nbsp;
   <!-- X: 発信していないため一旦非表示。再開時にコメント解除
@@ -298,7 +296,7 @@
   &nbsp;
   -->
   <a href="https://youtrust.jp/users/satoshi-nagashiba" target="_blank">
-    <img src="https://placehold.co/48x48/475569/FFFFFF.svg?text=YOUTRUST" width="48" height="48" alt="YOUTRUST" title="YOUTRUST" /><!-- TODO: 正式ロゴURLに差し替え -->
+    <img src="image/youtrust.jpg" width="48" height="48" alt="YOUTRUST" title="YOUTRUST" />
   </a>
   &nbsp;
   <a href="https://qiita.com/_bobtabo_" target="_blank">

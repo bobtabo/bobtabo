@@ -1,4 +1,5 @@
-# README.md 以外はすべて追跡しない
+# README.md と image/ 以外はすべて追跡しない
 /*
 !.gitignore
 !README.md
+!/image/
