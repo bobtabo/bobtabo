@@ -280,7 +280,7 @@
 <p align="left">
   <a href="https://lapras.com/public/B4BY1FQ" target="_blank"><img src="image/lapras.png" width="39" height="48" alt="LAPRAS" title="LAPRAS" /></a>
   &nbsp;
-  <a href="https://note.com/_bobtabo_" target="_blank"><img src="https://cdn.simpleicons.org/note" width="40" height="40" alt="note" title="note" /></a>
+  <a href="https://note.com/_bobtabo_" target="_blank"><img src="image/note.png" width="48" height="48" alt="note" title="note" /></a>
   &nbsp;
   <!-- X: 発信していないため一旦非表示。再開時にコメント解除
   <a href="https://x.com/bobtabo24" target="_blank"><img src="https://cdn.simpleicons.org/x" width="48" height="48" alt="X" title="X" /></a>
